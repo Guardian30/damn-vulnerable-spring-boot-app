@@ -1,5 +1,5 @@
 Persistent XSS
-Spring rules!<script type="text/javascript">alert("Hallo SWK Ruhr!");</script>
+Spring rules!<script type="text/javascript">alert("Hallo SWK Ruhr!");</script> test
 
 SQL Injection
 http://localhost:8080/books/detail?id=1;DROP+TABLE+books
